@@ -1,5 +1,5 @@
 import React from 'react';
-import { SafeAreaView, StyleSheet } from 'react-native';
+import { SafeAreaView, StatusBar, StyleSheet } from 'react-native';
 import NewsList from './components/NewsList';
 import Categories from './components/Categories';
 
@@ -15,6 +15,7 @@ const App = () => {
 	return (
 		<>
 			<SafeAreaView style={styles.container}>
+				<StatusBar barStyle='dark-content' />
 				<Categories category={category} setCategory={setCategory} />
 			</SafeAreaView>
 			<NewsList category={category} />
