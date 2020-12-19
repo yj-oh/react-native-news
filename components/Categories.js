@@ -27,9 +27,7 @@ const categories = [
 const styles = StyleSheet.create({
 	categories: {
 		flexDirection: 'row',
-		marginTop: 50,
 		paddingVertical: 10,
-		backgroundColor: '#eaeaea',
 		justifyContent: 'center',
 	},
 	category: {
