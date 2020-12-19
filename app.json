@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-news",
-    "slug": "react-native-news",
+    "name": "react-native-news-app",
+    "slug": "react-native-news-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "👅리액트 네이티브 뉴스앱 \n(기존 웹을 네이티브로 재구현 : https://github.com/yj-oh/news-react)",
-    "githubUrl": "https://github.com/yj-oh/react-native-news"
+    "description": "📰 Simple news app built with React Native.",
+    "githubUrl": "https://github.com/yj-oh/react-native-news-app"
   }
 }
