@@ -2,7 +2,7 @@
 - Simple news app built with React Native.
 - using [News API v2](https://newsapi.org/)
     
-![iOS](.README_images/d78a6ba3.png)
+![iOS](.README_images/342d1668.png)
 
 ## 🤹‍♀️ Getting Started
 
