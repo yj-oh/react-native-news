@@ -15,11 +15,11 @@
 
 ### Clone
 ```
-git clone https://github.com/yj-oh/react-native-news.git
+git clone https://github.com/yj-oh/react-native-news-app.git
 ```
 ### Install dependencies
 ```
-cd react-native-news
+cd react-native-news-app
 yarn install
 ```
 ### Run the app with Expo
